@@ -1,2 +1,4 @@
 # UTCTF_Low-Sodium-Bagel
-steganography
+## steganography
+
+steghide extract -sf ./low-sodium-bagel.jpeg -xf output
